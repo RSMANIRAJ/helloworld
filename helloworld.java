@@ -5,5 +5,7 @@ public class HelloWorld {
       System.out.println("Hello, World");
 System.out.println("this is java");
 System.out.println(" hi there, git version contril system !!!!");
+System.out.println("this is clone changing");
+system.out.println("this my new clone 30.mar")
    }
 }
